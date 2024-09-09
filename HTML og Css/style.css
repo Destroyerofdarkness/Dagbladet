@@ -1,0 +1,161 @@
+body
+{
+  align-content: center; 
+}
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+     width: 50%;
+}
+p
+{
+    text-align: center;
+    font-size: large;
+    color: rgb(0, 0, 0);
+}
+.hj
+{
+    width: 400%;
+}
+header
+{
+   color: rgb(0, 0, 0);
+    background-color: rgb(242, 13, 13);
+}
+.mi
+{
+  text-align: center; 
+font-size: 1000%;
+}  
+h1
+{
+    font-size: 700%;
+color: rgb(255, 255, 255);
+}
+a
+{
+    width: 100%;
+}
+body
+{
+    background-color: rgb(255, 255, 255);
+}
+ul
+{
+    color: rgb(0, 0, 0);
+    font-size: large;
+    padding-left: 10% ;
+    font-weight: bold;
+}
+.p2
+{
+    margin-right: 70%;
+    font-size: larger;
+}
+.p1
+{
+    margin-left: -20%;
+    font-weight: bold;
+}
+.div1
+{
+    background-color: rgb(125, 129, 133);
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+}
+.mk
+{
+    font-size: x-large;
+    font-weight: 600;
+    padding-right: 15%;
+}
+#vita 
+{
+    padding-left: 40%;
+    font-size: xx-large;
+}
+input
+{
+    float: right;
+    width: 200px; /* Bredden på søkeboksen */
+    height: 40px; /* Høyden på søkeboksen */
+    padding: 10px;
+    border: 1px solid #ccc; /* Kantfarge og tykkelse */
+    border-radius: 20px; /* Gjør kantene runde */
+    outline: none; /* Fjerner standard kant når du klikker */
+    font-size: 16px; /* Skriftstørrelse */
+}
+#dame
+{
+    font-family:'Times New Roman', Times, serif
+}
+#mj
+{
+    padding-right: 35%;
+}
+#ar
+{
+    font-weight: 600;
+    font-size: x-large;
+    padding-right: 35%;
+}
+#pp
+{
+padding-right: 5%;
+}
+#div7
+{
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif
+}
+.Grødem
+{
+    padding-right: 30%;
+}
+#j
+{
+ padding-left: 50%;
+}
+.span
+{
+    font-weight: 600;
+}
+#ll
+{
+    font-weight: 600;
+    padding-right: 20%;
+    font-size: x-large;
+}
+.mm
+{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#mening
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+     width: 40%;
+}
+.ut
+{
+    display: inline-block; /* Gjør lenken som en inline-blokk slik at den kan justeres */
+    text-align: center; /* Sentrerer teksten inne i lenken */
+    margin: 0 auto; /* Sentrerer lenken horisontalt */
+    font-size: 100px;
+    font-style: italic;
+    color: black;
+}
+#gh
+{
+    font-weight: 600;
+    padding-right: 25%;
+}
+#y
+{
+    padding-left: 30%;
+    color: black;
+}

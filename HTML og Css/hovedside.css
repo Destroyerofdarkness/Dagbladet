@@ -1,0 +1,37 @@
+h1
+{
+    font-size: 1000%;
+    text-align: center;
+    color: #ffffff;
+}
+h2
+{
+    color: #ffffff;
+}
+header
+{
+    background-color: rgb(92, 92, 220);
+}
+#hj
+{
+   
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    padding-right: 10%;
+
+}
+#hj ul a
+{
+    padding-left: 30%;
+    display: inline-block; /* Gjør at lenken kan ha padding og kantlinje */
+    padding: 10px 20px; /* Avstand inni boksen */
+    border: 2px solid #172f49; /* Blå kantlinje rundt boksen */
+    background-color: rgb(92, 92, 220); /* Lys grå bakgrunn */
+    text-decoration: none; /* Fjerner understrekning på lenken */
+    color: #ffffff; /* Blå tekst */
+    font-size: 80px; /* Skriftstørrelse */
+    border-radius: 100px; /* Runde kanter (valgfritt) */
+    transition: background-color 0.3s ease;
+}
+  
